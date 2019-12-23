@@ -1,7 +1,7 @@
 Dungeon Architect Documentation:
 ================================
 
-Video Tutorials: http://coderespawn.github.io/dungeon-architect-video-tutorials-unity
+Tutorials: https://docs.dungeonarchitect.com/unity/tutorials
 
 User Guide: http://coderespawn.github.io/dungeon-architect-user-guide-unity
 
